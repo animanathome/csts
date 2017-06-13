@@ -1,0 +1,17 @@
+= GOALS = 
+Have control, insight over or costs and expenses
+
+- assign x $ to certain categories -> track progress -> send notifications -> goal save money
+
+= PROCESS = 
+- download latest transactions from each account
+- append the transactions from each account (ambre, manu, shared, ... ) to the matching sheet	
+- assign each transaction to the proper category (food, drinks, meal, ...) in each sheet	
+- concatenate all sheets
+- process
+- visualize trends
+
+= TODO =
+- automatically assign category and sub category
+- deal with withdrawal and deposit values (currently we only deal with withdrawals)
+	- multiply deposit
